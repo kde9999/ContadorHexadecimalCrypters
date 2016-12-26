@@ -1,0 +1,16 @@
+La cantidad de A es: 760884
+La cantidad de B es: 760901
+La cantidad de C es: 763237
+La cantidad de D es: 760522
+La cantidad de E es: 761016
+La cantidad de F es: 773302
+La cantidad de 0 es: 853712
+La cantidad de 1 es: 768706
+La cantidad de 2 es: 764921
+La cantidad de 3 es: 763526
+La cantidad de 4 es: 766562
+La cantidad de 5 es: 765882
+La cantidad de 6 es: 765127
+La cantidad de 7 es: 764515
+La cantidad de 8 es: 767533
+La cantidad de 9 es: 760302
