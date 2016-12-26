@@ -8,3 +8,5 @@ def VectorizarBinario():
     archi=open('Vector.txt','a')
     archi.write('Vector: '+ datos)
     archi.close()
+
+    f
