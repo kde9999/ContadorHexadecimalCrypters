@@ -4,8 +4,8 @@ import binascii
 
 VolcadoBinario=''
 def VectorizarBinario():
-    VolcadoBinario=open('C:\Users\Thanos\Documents\GitHub\VectorBinario\ejecutable.exe',"rb")
-    ruta= 'C:\Users\Thanos\Documents\GitHub\VectorBinario\ejecutable.exe'
+    VolcadoBinario=open('C:\Users\Thanos\Documents\GitHub\VectorBinario\jbb66.exe',"rb")
+    ruta= 'C:\Users\Thanos\Documents\GitHub\VectorBinario\jbb66.exe'
     tamano= os.path.getsize(ruta)
     time.sleep(5)
     byte=VolcadoBinario.read(tamano)
@@ -14,7 +14,6 @@ def VectorizarBinario():
     archi=open('Vector.txt','a')
     archi.write(datos)
     archi.close()
-
 
 def ContadorCaracteres():
     a=0
